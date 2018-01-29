@@ -12,7 +12,7 @@ Algorithms
 
 The following table contains the algorithms included in this project:
 
-| # |    Name   |  Progress  |  Year | Referece |
+| # |    Name   |  Synchronization  |  Year | Referece |
 |:-:|-----------|:-----:|:-----:|:-----:|
 || **Dictionaries** ||||
 |1| [Sequential skip list](./src/skiplist-seq/) |	sequential | | |
